@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": "~6.0",
         "illuminate/contracts": "~5.7.0|~5.8.0",
         "illuminate/http": "~5.7.0|~5.8.0",
-        "illuminate/support": "~5.7.0|~5.8.0",
+        "illuminate/support": "~5.7.0|~5.8.0|dev-flex",
         "league/oauth1-client": "~1.0"
     },
     "require-dev": {
