@@ -18,8 +18,8 @@
         "php": "^7.1.3",
         "ext-json": "*",
         "guzzlehttp/guzzle": "~6.0",
-        "illuminate/contracts": "~5.7.0|~5.8.0",
-        "illuminate/http": "~5.7.0|~5.8.0",
+        "illuminate/contracts": "~5.7.0|~5.8.0|dev-flex",
+        "illuminate/http": "~5.7.0|~5.8.0|dev-flex",
         "illuminate/support": "~5.7.0|~5.8.0|dev-flex",
         "league/oauth1-client": "~1.0"
     },
